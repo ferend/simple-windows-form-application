@@ -1,4 +1,4 @@
-# simple-windows-form-application-for-Desktop
+# simple-windows-form-application
 
 My experimental C# Windows Form API for desktops that I created with C#. It contains icons of my frequently visited websites.
 
